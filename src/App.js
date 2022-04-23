@@ -11,7 +11,7 @@ function App() {
       <BrowserRouter>
         <Nav>
           <GiCook />
-          <Logo to={"/"}>Cook With Comali</Logo>
+          <Logo to={"/"}>Cook With Comali😍</Logo>
         </Nav>
         <Search />
         <Category />
